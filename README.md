@@ -8,7 +8,7 @@ CABC is a lightweight plugin designed to integrate with Super Page Cache, hiding
 - No Settings (for now). just activate and enjoy speeding up your WordPress website with Cloudflare's "Cache Everything" feature, for Free!
 
 ## Installation
-1. Download the plugin and upload it to your `/wp-content/plugins/` directory.
+1. Download the plugin and upload `custom-admin-bar-control.php` file into to your `/wp-content/plugins/custom-admin-bar-control` directory. (you should create a folder named `custom-admin-bar-control` in the plugins folder.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
